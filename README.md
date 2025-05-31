@@ -60,4 +60,5 @@ This project builds a machine learning-based web application using Flask that pr
 Try out the Flask web app locally:
 ```bash
 python app_airline_fare.py
+```
 Then visit http://127.0.0.1:5000/ in your browser.
